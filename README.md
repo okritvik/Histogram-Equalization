@@ -31,3 +31,5 @@ The working directory should have adaptive_hist_data and Histogram_Equalization 
 ### Note: 
 Make sure that the directory tree is maintained.
 Uncomment some of the lines in the code to vizualize each image.
+adaptive_hist_data folder has the image dataset for processing
+Histogram_Equalization folder has the resultant images after executing the pipeline.
